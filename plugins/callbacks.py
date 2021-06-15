@@ -49,8 +49,7 @@ async def cb_handler(client, query):
                     InlineKeyboardButton("Channel 📜", url="https://t.me/tt_linkz"),
                     InlineKeyboardButton("Group ♻️", url="https://t.me/Tentkottagroup")
                 ]
-            ]
-        )
+            )
 
         await query.message.edit_text(
             Script.HELP_MSG,
