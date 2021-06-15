@@ -1,9 +1,10 @@
 class Script(object):
 
     START_MSG = """<b>Hy {},
-
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
+I was produced to the TamilTentkotta Group.
+Anyway, the start has not been hit. Subscribe to our official channel below.
+                   
+Join Now ➟ Group ♻️ @Tentkottagroup
 
 See <i>/help</i> for commands and more details.</b>
 """
@@ -48,13 +49,13 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @TroJanzHEX</b>
+<b>© @Tamil_Tentkotta</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : Thalapathy Filter Bot</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Creater :</b> @Tamil_Tentkotta    
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
